@@ -3,5 +3,9 @@
   "rersion": "1.0.0",
   "type": "module",
   "author": "cacaojer",
-  "devDependencies": {}
+  "main": "./src/index.js",
+  "files": [
+    "src"
+  ],
+  "exports": "./src/index.js"
 }
